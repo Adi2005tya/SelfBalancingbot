@@ -1,10 +1,12 @@
-# Design and Simulation of a Self-Balancing Bot
+<img width="840" height="432" alt="image" src="https://github.com/user-attachments/assets/7cc86edd-4854-45ee-9431-49412ef684f2" /># Design and Simulation of a Self-Balancing Bot
 
 A two-wheeled self-balancing robot, modelled in **SolidWorks** and simulated in **MATLAB Simulink (Simscape Multibody)**, stabilised with **PID** and **LQR** control.
 
 > **Guide:** Prof. D. Ezhilarasi, Dept. of Instrumentation and Control Engineering, NIT Tiruchirappalli
 
-![LQR Controller in action](images/lqr_action.gif) 
+
+
+
 
 ## Aim
 Model a complete self-balancing bot and balance it within a given time using a suitable control algorithm.
@@ -28,15 +30,12 @@ Isometric view
 ## Simulation
 - CAD exported as STL and imported into Simscape Multibody using File Solid blocks.
 - Equations of motion derived with Euler-Lagrange and linearised about the upright position (θ = 0).
-
-![Simscape block diagram](images/simscape_block_diagram.png)
+<img width="840" height="432" alt="image" src="https://github.com/user-attachments/assets/5fb96476-39bb-4f29-aadb-ffd497d21c1a" />
 
 ## Control
 
 ### PID
 A 10° → 1° step acts as the initial disturbance. The tilt angle settles at the 1° setpoint in **about 3 s**.
-
-![Scope output](images/scope_output.png)
 
 ### LQR
 Gains obtained from the Riccati equation with u = -Kx:
@@ -45,8 +44,9 @@ Gains obtained from the Riccati equation with u = -Kx:
 K = [-1.000, -1.385, -100.435, -7.596]
 ```
 
+
 ## Tools
-SolidWorks · MATLAB · Simulink · Simscape Multibody
+SolidWorks · MATLAB · Simulink · Simscape Multibody . Mujoco 
 
 ## Status
 Ongoing. LQR is being explored for easier tuning and smoother control, with hardware implementation to follow.
