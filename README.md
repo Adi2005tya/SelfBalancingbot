@@ -20,8 +20,8 @@ Isometric view
 ### Physical Parameters (from SolidWorks)
 | Parameter | Value |
 |---|---|
-| Mass | 2725.75 g |
-| Centre of mass (mm) | X = -288.55, Y = -88.65, Z = 1.78 |
+| Mass | 706.77 g |
+| Centre of mass (mm) |18mm above the axle|
 | Ixx (about wheel axis) | 79225670.88 |
 
 ## Simulation
