@@ -1,4 +1,4 @@
-<img width="840" height="432" alt="image" src="https://github.com/user-attachments/assets/7cc86edd-4854-45ee-9431-49412ef684f2" /># Design and Simulation of a Self-Balancing Bot
+
 
 A two-wheeled self-balancing robot, modelled in **SolidWorks** and simulated in **MATLAB Simulink (Simscape Multibody)**, stabilised with **PID** and **LQR** control.
 
