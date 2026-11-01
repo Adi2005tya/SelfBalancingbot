@@ -3,10 +3,7 @@
 A two-wheeled self-balancing robot, modelled in **SolidWorks** and simulated in **MATLAB Simulink (Simscape Multibody)**, stabilised with **PID** and **LQR** control.
 
 > **Guide:** Prof. D. Ezhilarasi, Dept. of Instrumentation and Control Engineering, NIT Tiruchirappalli
-
-
-
-
+![Uploading WhatsApp Video 2026-11-01 at 17.17.12 (2).gif…]() 
 
 ## Aim
 Model a complete self-balancing bot and balance it within a given time using a suitable control algorithm.
@@ -36,6 +33,9 @@ Isometric view
 
 ### PID
 A 10° → 1° step acts as the initial disturbance. The tilt angle settles at the 1° setpoint in **about 3 s**.
+
+<img width="840" height="432" alt="image" src="https://github.com/user-attachments/assets/7cc86edd-4854-45ee-9431-49412ef684f2" /># Design and Simulation of a Self-Balancing Bot
+
 
 ### LQR
 Gains obtained from the Riccati equation with u = -Kx:
