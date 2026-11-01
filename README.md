@@ -4,8 +4,7 @@ A two-wheeled self-balancing robot, modelled in **SolidWorks** and simulated in 
 
 > **Guide:** Prof. D. Ezhilarasi, Dept. of Instrumentation and Control Engineering, NIT Tiruchirappalli
 <img width="400" height="223" alt="WhatsApp Video 2026-11-01 at 17 47 06" src="https://github.com/user-attachments/assets/20601fbe-afa2-4ac4-8188-bb833482a9b7" />
-
-
+Controller in action
 
 ## Aim
 Model a complete self-balancing bot and balance it within a given time using a suitable control algorithm.
