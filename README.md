@@ -11,9 +11,8 @@ Model a complete self-balancing bot and balance it within a given time using a s
 
 ## CAD Model
 
-| Isometric view | Electronics (zoomed in) |
-|---|---|
-| ![Isometric view](images/isometric_view.png) | ![Electronics view](images/electronics_view.png) |
+Isometric view
+<img width="1287" height="795" alt="image" src="https://github.com/user-attachments/assets/7eaf8b2b-296a-4761-82fc-e092b459b9a6" /> 
 
 - Chassis, middle frame, head, supports and rubber-gripped wheels designed in SolidWorks.
 - Electronics and motors imported from GrabCAD and assembled using mates.
