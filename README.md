@@ -3,9 +3,8 @@
 A two-wheeled self-balancing robot, modelled in **SolidWorks** and simulated in **MATLAB Simulink (Simscape Multibody)**, stabilised with **PID** and **LQR** control.
 
 > **Guide:** Prof. D. Ezhilarasi, Dept. of Instrumentation and Control Engineering, NIT Tiruchirappalli
-<p align="center">
-  <img src=""C:\Users\Aditya G\Downloads\WhatsApp Video 2026-11-01 at 17.17.12 (2) (1).gif"" alt="LQR Controller in action" width="600">
-</p>
+<img width="400" height="225" alt="WhatsApp Video 2026-11-01 at 17 42 40" src="https://github.com/user-attachments/assets/410808c4-9509-4448-97bc-9783aca7fde0" />
+
 
 
 ## Aim
