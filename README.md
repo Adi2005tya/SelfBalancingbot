@@ -3,7 +3,8 @@
 A two-wheeled self-balancing robot, modelled in **SolidWorks** and simulated in **MATLAB Simulink (Simscape Multibody)**, stabilised with **PID** and **LQR** control.
 
 > **Guide:** Prof. D. Ezhilarasi, Dept. of Instrumentation and Control Engineering, NIT Tiruchirappalli
-![Uploading WhatsApp Video 2026-11-01 at 17.17.12 (2).gif…]() 
+![Uploading WhatsApp Video 2026-11-01 at 17.17.12 (2) (1).gif…]()
+
 
 ## Aim
 Model a complete self-balancing bot and balance it within a given time using a suitable control algorithm.
